@@ -240,9 +240,6 @@ real-time-stock-market-analytics/
 │   ├── analytics.py
 │   └── pipeline.py
 │
-├── images/
-│   └── dashboard.png
-│
 ├── dashboard.py
 ├── requirements.txt
 ├── .gitignore
